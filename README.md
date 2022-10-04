@@ -39,4 +39,6 @@ I am a Coder and learning to be a Full Stack Developer.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kanscerr&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanscerr&layout=compact&theme=vision-friendly-dark)]
+<br/>
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanscerr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
