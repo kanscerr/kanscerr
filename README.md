@@ -40,7 +40,4 @@ I am a Coder and learning to be a Full Stack Developer.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kanscerr&theme=dark)](https://git.io/streak-stats)
 <br/>
 <br/>
-![trophy](https://github-profile-trophy.vercel.app/?username=kanscerr&theme=onedark)
-<br/>
-<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanscerr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
