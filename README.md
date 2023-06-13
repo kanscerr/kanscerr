@@ -19,7 +19,7 @@
 ### :woman_technologist: About Me :
 I am a Coder and learning to be a Full Stack Developer. 
 - Exploring concepts of Web Development under guidance.
-- Learning basic concepts of DSA and OOPS in C and C++.
+- Learning basic concepts of DSA and OOPS in JAVA.
 - Basic knowledge of Python and Tkinter GUI.
 - To reach me: [thisiskhushi2701@gmail.com](mailto:thisiskhushi2701@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 ---
